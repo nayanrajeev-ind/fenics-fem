@@ -1,7 +1,7 @@
 ## Repository Directory
 
 ### 1. 1D Poisson Equation with Dirichlet BCs (P1 Elements)
-* **File:** 1DPoissonDirichlet.py (or 1DDirichlet.py)
+* **File:** 1DPoissonDirichlet.py
 * **Formulation:** Solves the 1D boundary value problem under non-homogeneous Dirichlet boundary conditions across the entire boundary.
 * **Element Type:** Linear Lagrange elements (P1 continuous Galerkin).
 * **Visualization:** Using Matplotlib to map the discrete numerical solution against the exact analytical solution.
